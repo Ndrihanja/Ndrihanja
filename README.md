@@ -2,9 +2,7 @@
   Hi 👋, Nice to meet you.
 </h1>
 
-<p align=center>  <strong style="font-size: 24px;">I'm Ndrianja RAJAONARIVONY</strong> <p>
-
-<p align="center" style="background: #1c1c1c;">  
+<p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=918CED&random=false&width=435&lines=I'm+Ndrianja+RAJAONARIVONY">
 </p>
 
