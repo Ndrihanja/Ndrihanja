@@ -2,7 +2,7 @@
   Hi 👋, Nice to meet you.
 </h1>
 
-<p align=center>  <strong style="font-size: 24px;">I'm Ndrianja</strong> <p>
+<p align=center>  <strong style="font-size: 24px;">I'm Ndrianja RAJAONARIVONY</strong> <p>
 
 <!--
 **Ndrihanja/Ndrihanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
