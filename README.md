@@ -68,6 +68,16 @@ Here are some ideas to get you started:
   |  Databases|Dev Tools|
   |  ---|---|
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> ![MongoDB](https://img.shields.io/badge/mongodb-43853d.svg?style=for-the-badge&logo=mongodb&logoColor=white)| <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-20232A?style=for-the-badge&logo=intellij&logoColor=61DAFB") <img alt='Postman' src='https://img.shields.io/badge/Postman-6DB33F?style=for-the-badge&logo=postman&logoColor=white'/>
+
+
+   <div align="center">
+    <a href="mailto:andrianaivomanda00@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/manda-ny-aina-andrianaivo-009988187/" target="_black">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+   </div>
     
 
 
