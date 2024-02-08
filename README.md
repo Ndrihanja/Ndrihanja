@@ -76,7 +76,6 @@ Here are some ideas to get you started:
 
    <div align="center">
      <h3>CONTACTS</h3>
-     <br/>
     <a href="https://www.linkedin.com/in/ndrianja-rajaonarivony-490ab7273/" target="_black">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
