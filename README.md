@@ -80,7 +80,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/ndrianja-rajaonarivony-490ab7273/" target="_black">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.messenger.com/t/100007329578338" target="_black">
+    <a href="https://www.facebook.com/ndrianja.raj/" target="_black">
         <img src="https://img.shields.io/badge/Facebook-00B2FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Messenger Badge"/>
     </a>
     <a href="mailto:ndrihanjarajaonarivony@gmail.com">
