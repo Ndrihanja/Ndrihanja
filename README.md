@@ -83,7 +83,7 @@ Here are some ideas to get you started:
     <a href="https://www.messenger.com/t/100007329578338" target="_black">
         <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge"/>
     </a>
-    <a href="mailto:andrianaivomanda00@gmail.com">
+    <a href="mailto:ndrihanjarajaonarivony@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
    </div>
