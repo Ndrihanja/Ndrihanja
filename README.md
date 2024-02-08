@@ -77,13 +77,17 @@ Here are some ideas to get you started:
    <div align="center">
      <h3>CONTACTS</h3>
      <br/>
-    <a href="https://www.linkedin.com/in/gasytalk-ml/">
-    <img height='35' width='35' src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"/>
-  </a>
+    <a href="https://www.linkedin.com/in/ndrianja-rajaonarivony-490ab7273/" target="_black">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 
-  <a href="https://www.facebook.com/gasytalk.ml">
-    <img height='35' width='35' src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"/>
-  </a> <br><br>
+    <a href="mailto:ndrihanjarajaonarivony@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+
+    <a href="https://www.facebook.com/ndrianja.raj/">
+        <img src="https://img.shields.io/badge/Facebook-00B2FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Gmail Badge"/>
+    </a>
    </div>
     
 
