@@ -5,7 +5,7 @@
 <p align=center>  <strong style="font-size: 24px;">I'm Ndrianja RAJAONARIVONY</strong> <p>
 
 <p align="center" style="background: #1c1c1c;">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=%24%20sudo%20apt%20install%20brain&amp;duration=7000">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=918CED&random=false&width=435&lines=I'm+Ndrianja+RAJAONARIVONY">
 </p>
 
 <!--
